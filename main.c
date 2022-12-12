@@ -1,5 +1,7 @@
-#include<stdio.h>
-#include<stdlib.h>
+// Integrantes da equipe: Matheus Macedo Gomes (20211045050330) e João Vitor Abreu Castro (20211045050446)
+
+#include <stdio.h>
+#include <stdlib.h>
 
 struct Node{
     int data;
